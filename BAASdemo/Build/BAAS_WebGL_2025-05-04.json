@@ -1,0 +1,16 @@
+{
+"companyName": "Gurii Eco Games",
+"productName": "BAAS",
+"productVersion": "1.0",
+"dataUrl": "BAAS_WebGL_2025-05-04.data.unityweb",
+"wasmCodeUrl": "BAAS_WebGL_2025-05-04.wasm.code.unityweb",
+"wasmFrameworkUrl": "BAAS_WebGL_2025-05-04.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.11f1"
+}
